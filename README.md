@@ -2600,7 +2600,7 @@
                                 children: [
                                     new Paragraph({
                                         children: [
-                                            new TextRun({ text: "KẾT QUẢ XẾP LOẠI KHOA HÓA LÝ: ", bold: true, font: "Times New Roman", size: 22 }),
+                                            new TextRun({ text: "KẾT QUẢ XẾP LOẠI: ", bold: true, font: "Times New Roman", size: 22 }),
                                             new TextRun({ text: rankTitleForWord.toUpperCase(), bold: true, font: "Times New Roman", size: 22 })
                                         ]
                                     })
